@@ -1,4 +1,7 @@
-# test coverage for  [nsp (v2.6.3)](https://github.com/nodesecurity/nsp#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nsp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nsp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nsp.svg)](https://travis-ci.org/npmtest/node-npmtest-nsp)
+# npmtest-nsp
+
+#### basic test coverage for  [nsp (v2.6.3)](https://github.com/nodesecurity/nsp#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nsp.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nsp) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nsp.svg)](https://travis-ci.org/npmtest/node-npmtest-nsp)
+
 #### The Node Security (nodesecurity.io) command line interface
 
 [![NPM](https://nodei.co/npm/nsp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nsp)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nsp/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nsp/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nsp/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nsp/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nsp/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nsp/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nsp/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nsp/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nsp/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nsp/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nsp/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nsp/build/coverage.html/index.html)
 
